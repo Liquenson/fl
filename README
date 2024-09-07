@@ -1,0 +1,43 @@
+# Mi Página de Música 🎵
+
+Este proyecto es una página web sencilla para reproducir música, diseñada con HTML. Permite alojar archivos de audio de diferentes formatos como MP3, WAV, y OGG, que se pueden reproducir directamente desde el navegador.
+
+## Estructura del Proyecto 📁
+
+
+- `index.html`: Contiene el código HTML para la página web que carga y reproduce los archivos de audio.
+- `/audios`: Carpeta donde se almacenan los archivos de música que se van a reproducir.
+
+## Requisitos 📋
+
+Para visualizar y usar esta página de música, solo necesitas:
+
+- Un navegador web moderno que soporte HTML5 y la etiqueta `<audio>`.
+
+## Instrucciones de Uso 🚀
+
+1. **Descarga o clona este repositorio** en tu máquina local.
+2. **Coloca tus archivos de música** dentro de la carpeta `audios/` en los formatos soportados (MP3, WAV, OGG).
+3. **Abre el archivo `index.html`** en tu navegador para acceder a la página y reproducir los audios.
+
+## Personalización 🎨
+
+- Puedes editar los títulos de las canciones, agregar más secciones o cambiar el estilo del sitio modificando el archivo `index.html`.
+- Añade más archivos de audio a la carpeta `audios/` y crea más bloques `<audio>` en el archivo HTML para cargarlos.
+
+## Tecnologías Usadas 🛠️
+
+- **HTML5**: Para la estructura de la página y la funcionalidad del reproductor de audio.
+- **CSS**: Para el estilo básico de la página.
+
+## Contribución 🤝
+
+Si deseas contribuir al proyecto, siéntete libre de hacer un fork del repositorio, hacer tus modificaciones y luego enviar un pull request. ¡Toda ayuda es bienvenida!
+
+## Licencia 📄
+
+Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+
+---
+
+¡Gracias por visitar y disfrutar de la música! 🎶
